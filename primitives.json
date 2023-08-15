@@ -1,4 +1,5 @@
-[
+{
+    [
     {
         "action": "microsoft.directory/groups/owners/update",
         "tier": "0",
@@ -105,3 +106,5 @@
         "description": "Update custom directory roles to include additional privileges."
     }
 ]
+
+}
